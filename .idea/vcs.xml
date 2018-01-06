@@ -3,5 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/example/hp/messapp" vcs="Git" />
+    <mapping directory="E:\studymaterial\udacity\inbuilt\MessApp\Messapp" vcs="Git" />
+    <mapping directory="E:\studymaterial\udacity\inbuilt\MessApp\appmess" vcs="Git" />
   </component>
 </project>
