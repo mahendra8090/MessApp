@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_352aa5dce3fdab19bedb511417a5a1f4c49413d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_a9b6fd47ba779118167d27c12885abd2e81d3e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_ac3ce0b79113e0d50bb393e74b969794e35b9c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-26.0.0-alpha1_521d010dc6a8304c4fbf28c92a12b97441b700e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_0d930ff68afdb3effddeceb7a55c4749b4e4b9ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="be89ed8a05daf4e621722ca98908255bf7d23258">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ec888fffc323d480d01944ae4965d3cf2f0dd225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_4b58088de253d8d00eca6079b33372e35b1c3345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_4ee12f422551ea0ad74677087a67fa37eb7a304c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_c932d4805f73ee9e65a79effcaa55c967495cef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-26.0.0-alpha1_f64603eda18c42f9a63f339cecf59fc87292cabc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_c69c1cf196d2604414ab6e46a2fab30fc92c69b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_efed98e380aa2c4734717f9d6f0379c509f665d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_f777c54256c32e2ebc52e3282d78ee857f916074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7147c2c71151bc657acd8edd18f49ed7a8faceeb">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ce19f42ac4b1b64ea837f84a20542697f33c12b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\studymaterial\udacity\inbuilt\MessApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-26.0.0-alpha1_f2c493ef970bd329b6d23d53e43476783cfe9117\classes.dex" />
+    </item>
+
+</items>
